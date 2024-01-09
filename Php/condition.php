@@ -28,7 +28,6 @@ $price = 10;
 $total = $quantity * $price ;
 
 if ($total >= 20) {
-  echo $quantity * $price ;
   echo "are you kidding me thats to many" ;
 }
 
