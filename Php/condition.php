@@ -24,7 +24,7 @@
 <?php 
 
 $quantity = $_POST["quantity"] ;
-$price = $_POST["price"] ;
+$price = 10;
 $total = null ;
 
 if ($total >= 20) {
