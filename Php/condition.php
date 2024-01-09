@@ -12,10 +12,10 @@
 
     <label for="quantity">quantity</label>
     <input type="text" id="quantity" name="quantity" required>
-
-    <label for="price">Price</label>
-    <input type="text" id="price" name="price" required>
-
+      <br>
+    <!-- <label for="price">Price</label>
+    <input type="text" id="price" name="price" required> -->
+      <br>
     <input type="submit" value="Add Quantity">
   </form>
 </body>
@@ -28,12 +28,10 @@ $price = $_POST["price"] ;
 $total = null ;
 
 if ($total >= 20) {
-  echo $quantity * $price ;
   echo "are you kidding me thats to many" ;
 }
 
 else {
-  echo $total ;
   echo "bro thats great" ;
 }
 
