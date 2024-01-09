@@ -20,7 +20,7 @@
 
 <?php 
 
-$quantity = 
+$quantity = $_POST["quantity"] ;
 
 
 ?>
