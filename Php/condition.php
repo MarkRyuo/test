@@ -12,6 +12,8 @@
 
     <label for="quantity">quantity</label>
     <input type="text" id="quantity" name="quantity" required>
+
+    <input type="" value="submit">
   </form>
 </body>
 </html>
