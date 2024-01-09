@@ -33,7 +33,7 @@ if ($total >= 20) {
 }
 
 else {
-  echo "bro thats great" ;
+  echo " {$total}, bro thats great" ;
 }
 
 
