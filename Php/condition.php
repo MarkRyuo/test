@@ -8,6 +8,6 @@
 <body>
   
 
-  <form action="condition.php"></form>
+  <form action="condition.php" method="post"></form>
 </body>
 </html>
