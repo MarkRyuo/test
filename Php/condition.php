@@ -11,6 +11,7 @@
   <form action="condition.php" method="post">
 
     <label for="quantity">quantity</label>
+    <input type="text" id="quantity" name="quantity" required>
   </form>
 </body>
 </html>
