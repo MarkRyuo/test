@@ -25,10 +25,13 @@
 
 $quantity = $_POST["quantity"] ;
 $price = $_POST["price"] ;
-
+$total = null ;
 if ($quantity >= 20) {
   echo "are you kidding me thats to many" ;
 }
+
+elseif ()
+
 else {
   echo "bro thats great" ;
 }
