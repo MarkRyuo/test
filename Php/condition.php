@@ -13,7 +13,8 @@
     <label for="quantity">quantity</label>
     <input type="text" id="quantity" name="quantity" required>
 
-    <label for="price"></label>
+    <label for="price">Price</label>
+    <input type="text" id="price" name="price">
 
     <input type="submit" value="Add Quantity">
   </form>
