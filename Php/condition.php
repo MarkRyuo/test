@@ -24,6 +24,7 @@
 <?php 
 
 $quantity = $_POST["quantity"] ;
+$price = $_POST["price"] ;
 
 if ($quantity >= 20) {
   echo "are you kidding me thats to many" ;
