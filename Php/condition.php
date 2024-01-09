@@ -32,9 +32,8 @@ if ($total >= 20) {
   echo "are you kidding me thats to many" ;
 }
 
-elseif ()
-
 else {
+  echo $total ;
   echo "bro thats great" ;
 }
 
