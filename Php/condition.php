@@ -23,7 +23,10 @@
 $quantity = $_POST["quantity"] ;
 
 if ($quantity >= 20) {
-  echo "are you kidding me thats to many"
+  echo "are you kidding me thats to many" ;
+}
+else {
+  echo "bro thats great"
 }
 
 
