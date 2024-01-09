@@ -13,6 +13,8 @@
     <label for="quantity">quantity</label>
     <input type="text" id="quantity" name="quantity" required>
 
+    <label for="price"></label>
+
     <input type="submit" value="Add Quantity">
   </form>
 </body>
@@ -26,7 +28,7 @@ if ($quantity >= 20) {
   echo "are you kidding me thats to many" ;
 }
 else {
-  echo "bro thats great"
+  echo "bro thats great" ;
 }
 
 
