@@ -14,7 +14,7 @@
     <input type="text" id="quantity" name="quantity" required>
 
     <label for="price">Price</label>
-    <input type="text" id="price" name="price">
+    <input type="text" id="price" name="price" required>
 
     <input type="submit" value="Add Quantity">
   </form>
