@@ -7,5 +7,7 @@
 </head>
 <body>
   
+
+  <form action="condition.php"></form>
 </body>
 </html>
