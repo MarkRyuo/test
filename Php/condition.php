@@ -8,6 +8,9 @@
 <body>
   
 
-  <form action="condition.php" method="post"></form>
+  <form action="condition.php" method="post">
+
+    <label for="quantity">quantity</label>
+  </form>
 </body>
 </html>
