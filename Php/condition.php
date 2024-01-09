@@ -22,5 +22,7 @@
 
 $quantity = $_POST["quantity"] ;
 
+if ($quantity >= 20)
+
 
 ?>
